@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sarang.viewpagermodule">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application>
+        <activity android:name=".sample.activity.ViewPagerIndicatorActivity"></activity>
+        <activity android:name=".sample.activity.ImageLoadViewPagerActivity" />
+        <activity android:name=".sample.activity.SampleActivity" />
+    </application>
+
+</manifest>
